@@ -101,6 +101,16 @@ body{
   font-family:'Playfair Display', serif;
   background: #e7e9e5;
 }
+
+img{
+  width: 100%;
+  max-width: 100%;
+}
+
+.image-margin{
+  margin: 12px;
+  padding: 12px;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
